@@ -108,8 +108,8 @@ npm run dev
 
 🧠 Author
 Edgah Kipkemoi
-📧 edgah@example.com
-🔗 GitHub
+📧 kipkemoiedgah@gmail.com
+🔗 https://github.com/Edgahkipkemoi
 
 📃 License
 This project is part of the PLP MERN Stack course and is intended for educational purposes.
@@ -127,11 +127,3 @@ Edit
 
 Let me know if you want help generating screenshots or setting up deployment!
 
-
-
-
-
-
-
-
-Ask ChatGPT
